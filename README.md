@@ -5,8 +5,6 @@ generate ascii art using my script
 ----------------
 install dependencies in requirements
 ```
-function test() {
-  console.log("pip install Pillow");
-}
+pip install Pillow
 ```
 ## then run the python script
